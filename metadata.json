@@ -1,0 +1,5 @@
+{
+  "name": "Calendário de Ações",
+  "description": "Sistema de gestão e agendamento de ações com hierarquia de aprovação e sincronização com calendário.",
+  "requestFramePermissions": []
+}
